@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+
+#head{
+	background-color: #4aaaa5;
+    width: 20%;
+    float: left;
+	
+}
+
+#list{
+    display: inline;
+    width: 30%;
+    float: right;
+}
+
+#about-me{
+
+}
+
+
+
+#social-media{
+
+}
+
+hr{
+    /*footer line color here*/
+}
+
+#footer {
+    background-color: #666666;
+    clear: both;
+    border-style: solid;
+    border-width: 50px;
+
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
